@@ -10,21 +10,11 @@
            minimum-scale=1.0">
      <meta http-equiv="X-UA-Compatible"
            content="ie=edge">
-     <title>{{ title }}</title>
-     <link rel="stylesheet" href="css/style.css">
+     <title></title>
 </head>
 <body>
- {% include "layouts/top.html" %}
-
- <h1>{{ title }}</h1>
-
- <h2>{{ param }}</h2>
-
- <p>What's my permalink parameter? {{ permalink }} </p>
 
     {{ content | safe }}
-
- {% include  "layouts/footer.html" %}
 
 </body>
 </html>
