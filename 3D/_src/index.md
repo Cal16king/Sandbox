@@ -10,3 +10,7 @@ Welcome to my 11ty project site!
 
 <a href="./img/selfPortrait.jpg"></a>
 ![Profile Picture](./img/selfPortrait.jpg)
+
+<p class=" "textBorder">
+
+</p>

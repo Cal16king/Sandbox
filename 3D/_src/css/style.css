@@ -47,6 +47,18 @@ div.navBar {
     transition: 0.35s;
 }
 
+.textBorder {
+    margin: auto;
+    border: solid;
+    border-radius: 12px;
+    padding: 8px;
+    background-color: #fff8f0;
+;
+
+    box-shadow: 8px 5px 1px #e05d4f; /*red*/
+    border-color: #854c1d;
+}
+
 canvas{
     position:fixed;
     top: 0;
