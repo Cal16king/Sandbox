@@ -10,14 +10,13 @@ body {
 
 h1 {
     text-align: center;
-    /* offset-x | offset-y | blur-radius | color */
-    text-shadow: 3px 5.5px 1.5px #e05d4f; /*red*/
+    text-shadow: 3px 5.5px 1.5px #9b7ff3; /*red*/
     font-size: 60px;
 
 }
 
 div.navBar {
-    background-color: #e05d4f; /*red*/
+    background-color: #9b7ff3;
     font-size: 30px;
     justify-content: center;
     display: flex;
@@ -28,20 +27,23 @@ div.navBar {
 }
 
 .container {
-    display: flex; /* Adding flex property for sizing */
+    display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
+    width: auto;
+
+    margin: 0;
+
 }
 
 .btnFade {
-    background-color: rgba(145, 65, 4,  1);
+    background-color: #6342ca;
 
     margin: 0;
     color: white;
     padding: 16px 32px;
     text-align: center;
-    /*  opacity: 0.6;*/
     transition: 0.35s;
 }
 
