@@ -1,10 +1,12 @@
 ---
 title: Home
 layout: base.njk
+permalink: index.html
 ---
 
 # 11ty Modeling site
 Welcome to my 11ty project site!
 
-<canvas id="bg"></canvas>
-<script type="module" src="main.js"></script>
+
+<a href="./img/selfPortrait.jpg"></a>
+![Profile Picture](./img/selfPortrait.jpg)

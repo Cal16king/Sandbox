@@ -3,9 +3,56 @@ body {
     font-family: "Courier New", monospace;
     font-size: 26px;
     color: #383b33;
+    margin: 0;
 
 
 }
+
+h1 {
+    text-align: center;
+    text-shadow: 3px 5.5px 1.5px #9b7ff3; /*red*/
+    font-size: 60px;
+
+}
+
+div.navBar {
+    background-color: #9b7ff3;
+    font-size: 30px;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: auto;
+
+    margin: 0;
+
+}
+
+.btnFade {
+    background-color: #6342ca;
+
+    margin: 0;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    transition: 0.35s;
+}
+
+canvas{
+    position:fixed;
+    top: 0;
+    left: 0;
+}
+
 footer {
     position: fixed;
     width: 100%;
@@ -19,4 +66,5 @@ footer {
     align-items: center;
     padding: 0 10px;
     gap: 20px;
+    font-size: smaller;
 }
