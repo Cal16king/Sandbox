@@ -33,18 +33,19 @@ const ambientLight = new THREE.AmbientLight(0xffffff);
 ambientLight.position.set(25, -15, -400);
 
 const pointLight = new THREE.PointLight(0xffffff);
-pointLight.position.set(-1, -10, -10);
+pointLight.position.set(0, -10, 10);
 
 scene.add( cube );
 scene.add(pointLight);
 scene.add(ambientLight);
 
 //Render the scene:
+
 renderer.setPixelRatio(window.devicePixelRatio);
 renderer.setSize(window.innerWidth, window.innerHeight);
 camera.position.setZ(50);
 camera.position.setX(-3);
-camera.position.setY(10);
+//camera.position.setY(10);
 renderer.render(scene, camera);
 
 function animate() {
