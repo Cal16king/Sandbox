@@ -37,6 +37,17 @@ div.navBar {
 
 }
 
+.box {
+    background-color: #9b7ff3;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 8px;
+    display: flex;
+    border-color: #9b7ff3;
+    box-shadow: 0 4px 6px #9b7ff3;
+    align-items: stretch;
+}
+
 .btnFade {
     background-color: #6342ca;
 
@@ -53,10 +64,11 @@ div.navBar {
     border-radius: 12px;
     padding: 8px;
     background-color: #fff8f0;
+    text-align: center;
 ;
 
-    box-shadow: 8px 5px 1px #e05d4f; /*red*/
-    border-color: #854c1d;
+    box-shadow: 8px 5px 1px #6342ca;
+    border-color: #9b7ff3;
 }
 
 canvas{
