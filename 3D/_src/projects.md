@@ -1,0 +1,31 @@
+---
+title: Home
+layout: base.njk
+permalink: projects.html
+---
+
+# Projects
+
+<p class=" textBorder">
+    Here are some of the projects that I have recenly worked on:
+</p>
+
+# Casablanca Text Analysis
+
+<p class=" textBorder">
+    This project focused on using regex and xslt to outline and analyze parts of the script and the
+    multiple different endings The movie had in mind. The link to the project can be found <a href="https://jvs7215.github.io/Casablanca-Project/"><b>here</b></a>.
+</p>
+
+# Finance Sentiment Analysis
+
+<p class=" textBorder">
+    This project focuses on web scraping financial news articles and using sentiment analysis in order to study the
+    ratio of subjective to objective information supplied by journalists and company sites. If you would like to see more and look into what we have found, click on this link <a href="https://cal16king.github.io/Finance-Sentiment-Analysis/"><b>here</b></a>.
+</p>
+
+# Threejs Environment
+
+<p class=" textBorder">
+    This project focused on generating 3d objects and giving them animations along with having the user interact with them. This project can be found at the top of the nav bar or at the link <a href="https://cal16king.github.io/Sandbox/threeD.html"><b>here</b></a>
+</p>
