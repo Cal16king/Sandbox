@@ -11,9 +11,9 @@ permalink: internship.html
 
 <p class=" textBorder">
 <b>Report 1/24/25:</b> To get a complete overview and count of what web pages needed edited and which needed to be included, 
-I spent the week going through every navigated route I could find and then recorded them into an excel sheet. 
+I spent the week going through every navigated route I could find and then recorded them into an Excel sheet. 
 I left a detailed note for each page and what each one of them needed. The list was then brought to my supervisor so he could set a priority level for which pages needed to be done first. 
-My supervisor preferred to use Wordpress for hosting the website. 
+My supervisor preferred to use WordPress for hosting the website. 
 I also used my time this week to more familiarize myself with its tools. As of this report, I have been able to start editing and have already published a couple of pages.
 </p>
 
@@ -35,8 +35,8 @@ The focus of this week had an additional task to have the home page refurbished 
 </p>
 
 <p class="textBorder">
-<b>Report 2/21/25:</b> The continuance of the about menu tabs was still at the forefront. I moved on to implement an event calender with the help of Savvy Citizen. 
-This let me use an updatable calender that also had the extra feature of linking notifications for said events to be connected to your phone, alolng witha downloadable pdf version for a more traditional aspect. 
+<b>Report 2/21/25:</b> The continuance of the about menu tabs was still at the forefront. I moved on to implement an event calendar with the help of Savvy Citizen. 
+This let me use an updatable calendar that also had the extra feature of linking notifications for said events to be connected to your phone, along with a downloadable pdf version for a more traditional aspect. 
 I finished with adding a list of closing times of the office for the new year.
 The completion of the menu tab was accomplished after adding another two pages pertaining to the history of Wesleyville Borough and an info page for Borough Careers and hiring positions, whether paid or voluntary.
 </p>
@@ -72,11 +72,11 @@ The listing of pages include information pertaining to community events, busines
 <b>Report 4/11/25:</b> The footer section desperately needed some work. I created a copy of the global menu at the top and posted it in a sectioned portion at the end of all sites. The Wesleyville Borough Seal was added along with links to all social media sites owned by the borough. 
 </p>
 <p class="textBorder">
-<b>Report 4/18/25:</b> My focus this week was dedicated to format editing which came in the form of twin styled columns to encapture more information to be displayed without the use of the scroll wheel and revised hierarchy headings with changes in font. 
+<b>Report 4/18/25:</b> My focus this week was dedicated to format editing which came in the form of twin styled columns to capture more information to be displayed without the use of the scroll wheel and revised hierarchy headings with changes in font. 
 </p>
 <p class="textBorder">
 <b>Report 4/25/25:</b> While winding down on my remaining days left, I added some more pages to each menu tab and made one last quality check of the site making sure there were no remaining grammar errors and that all pages adhered to the themed format. 
-The menu was then updated to contain any other unlisted pages that were not yet catagorized.
+The menu was then updated to contain any other unlisted pages that were not yet categorized.
 </p>
 
 <p class="textBorder">
