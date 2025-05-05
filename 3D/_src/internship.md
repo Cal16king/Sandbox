@@ -63,17 +63,15 @@ Report 4/4/25: To further organize site navigation, a sub menu of "Community and
 The listing of pages include information pertaining to community events, business license acquisition, and veteran affairs (American Legion, VFW, Hero Banners, and memorials).
 </p>
 <p class="textBorder">
-Report 4/11/25:
+Report 4/11/25: The bottom section desperately needed some work. I created a copy of the global menu at the top and posted it in a sectioned portion at the end of all sites. The Wesleyville Borough Seal was added along with links to all social media sites owned by the borough. 
 </p>
 <p class="textBorder">
-Report 4/18/25:
+Report 4/18/25: My focus this week was dedicated to format editing which came in the form of twin styled columns to encapture more information to be displayed without the use of the scroll wheel and revised hierarchy headings with changes in font. 
 </p>
 <p class="textBorder">
-Report 4/25/25:
+Report 4/25/25: While winding down on my remaining days left, I added some more pages to each menu tab and made one last quality check of the site making sure there were no remaining grammar errors and that all pages adhered to the themed format. 
+The menu was then updated to contain any other unlisted pages that were not yet catagorized.
 </p>
 
-<p class="textBorder">
-Report 4/25/25:
-</p>
 
 
