@@ -79,9 +79,7 @@ The listing of pages include information pertaining to community events, busines
 The menu was then updated to contain any other unlisted pages that were not yet categorized.
 </p>
 
-<p class="textBorder">
-My time spent at the Borough was not only fruitful 
-</p>
+
 
 <iframe src="C:\Users\cal16\Github\Sandbox\3D\_src\img\Weselyville.html"
         width="600" height="400"></iframe>
