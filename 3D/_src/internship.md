@@ -79,7 +79,19 @@ The listing of pages include information pertaining to community events, busines
 The menu was then updated to contain any other unlisted pages that were not yet categorized.
 </p>
 
-
+<p class="textBorder">
+<b>Final Report:</b> My time spent at the Borough gave me great first-hand experience in web development and upkeep that felt both rewarding and educational. 
+The opportunity to hone my UX skill in order for clients to conveniently find the information they are seeking promptly will no doubt help me in the near future of menu tabulation and content formatting.
+The previous skills that I acquired over years of my bachelors assisted me greatly throughout this journey as well. 
+Since some of my classes required the use of WordPress previously, I was already accustomed to the UI and with what tools I could use to immediately hit the ground running. 
+That prior experience allowed me the chance to start publishing pages within the first week of my allotted schedule.
+However, this was not the only skill Digit nurtured throughout my time in Behrend. 
+This came in the form of my previous background in html, more specifically css, which was used to make slight adjustments to any formatting issues WordPress couldn't adjust itself.
+I also drew inspiration from my time working on mock dashboards under the critique of Erie Insurance. More specifically, how I learned to use the art of white space to most efficiently display content in a pleasing fashion.
+Lastly, my time creating summaries/bios of webpages along with designing reports focused on data analysis in upper level digit courses provided me the necessary skill to detail Wesleyville's written content for each specific moment the web page demanded.
+All of this culminated into a piece of work I am proud to call my own. 
+Working in tandem with the borough manager provided me the chance to improve my own communication skills that I wish to further use and sharpen in order to one day call one of my greatest strengths.
+</p>
 
 <iframe src="C:\Users\cal16\Github\Sandbox\3D\_src\img\Weselyville.html"
         width="600" height="400"></iframe>
